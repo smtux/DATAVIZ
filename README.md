@@ -7,11 +7,7 @@ Un rapport est également disponible afin de décrire la méthode de création e
 Les donnnées nécessaires ont été extraites du site www.theses.fr mais ne sont pas publiques.
 
 
-Ce code nécessite les libraires suivantes:
-pandas
-matplotlib
-numpy
-seaborn
-plotly
-distinctipy
+Installtion des librairies:
+pip install -r "requirements.txt"
+
   
